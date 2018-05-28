@@ -2,7 +2,7 @@
 Curated list of emergency resources when you find yourself in the inevitable pickle with Windows. **PRs welcome!**
 
 # Links  
-Take your time when going through the below links and use them to build your own utility library.
+Take your time when going through the below links and use them to build your own utility library. Most, if not all, are entirely portable and don't require installation.
 
 **Sysinternals**  
 A go-to for Windows diagnostics, along with some other simple yet powerful utilities for both local and domain environments.  
