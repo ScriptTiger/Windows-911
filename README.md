@@ -13,7 +13,7 @@ NirSoft is a massive collection of simple yet effective utilities for both getti
 https://www.nirsoft.net/
 
 # Disks  
-If you have Windows, you should have a disc burned from every single one of the below links that is appropriate for your system!!!
+If you have Windows, you should have a disk burned from every single one of the below links that is appropriate for your system!!!
 
 **UBCD**  
 UBCD is good for any OS and is a collection of all those floppies people thought they wouldn't need anymore but can still save your butt in a bind, plus a whole lot more.  
