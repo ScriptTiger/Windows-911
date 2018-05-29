@@ -1,8 +1,8 @@
 # Windows 911!!!  
 Curated list of FREE emergency resources when you find yourself in the inevitable pickle with Windows. **PRs welcome!**
 
-# Links  
-Take your time when going through the below links and use them to build your own utility library. Most, if not all, are entirely portable and don't require installation.
+# Utility Libraries  
+Take your time when going through the below utility libraries and use them to build your own. Most, if not all, are entirely portable and don't require installation.
 
 **Sysinternals**  
 A go-to for Windows diagnostics, along with some other simple yet powerful utilities for both local and domain environments.  
@@ -12,7 +12,7 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/
 NirSoft is a massive collection of simple yet effective utilities for both getting things done and just curiosities. It has utilities for everything from network forensics to local PC diagnostics.  
 https://www.nirsoft.net/
 
-# Disks  
+# Must-Have Disks  
 If you have Windows, you should have a disk burned from every single one of the below links that is appropriate for your system!!!
 
 **UBCD**  
@@ -21,7 +21,7 @@ http://www.ultimatebootcd.com/
 
 **TechBench**  
 The TechBench website may seem unassuming and maybe even shady, but it's actually home to a download link generator which generates links to various flavors of Windows that are downloaded directly from software-download.microsoft.com (See for yourself when you are given a download link!), so you don't need to worry about them being hacked and cracked versions that you might find floating around in torrents. With modern versions of Windows, always keeping an up-to-date version of your OS's install disk allows you the option to be able to reinstall your current OS without losing any licensing or even any data!  
-So the next time you decide trying your hand at gambling with Windows updates that land you sitting in front of a "Desktop Location is not available" error with no recovery options, no taskbar, no explorer, and no clue what to do, just CTRL+ALT+DELETE into the Task Manager, More details to make the File menu appear, File, Run new task, Browse. Keyboard shortcuts and right-click options apply here just like they do in the explorer and you can use it to back up what you need to before executing the disk's setup.exe to reinstall. It should also be noted when stuck in a situation like this, you may have to run everything with administrative privileges. Also, by default the Task Manager browser only views "program" file types, so don't forget to change that to "All files" in the bottom right drop-down. Backing your important data up should always be a precautionary step, but as long as your install disk is newer than your current OS build it should be able to reinstall without losing anything similar to an upgrade.  
+So the next time you decide trying your hand at gambling with Windows updates that land you sitting in front of a "Desktop Location is not available" error with no recovery options, no taskbar, no explorer, and no clue what to do, just CTRL+ALT+DELETE into the Task Manager, More details to make the File menu appear, File, Run new task, Browse. Keyboard shortcuts and right-click options apply here just like they do in the explorer and you can use it to back up what you need to before executing the disk's setup.exe to reinstall. It should also be noted when stuck in a situation like this, you may have to run everything with administrative privileges. Also, by default the Task Manager browser only views "program" file types, so don't forget to change that to "All files" in the bottom right drop-down. Backing your important data up should always be a precautionary step, but if your install disk is newer than your current OS build it will most likely be able to reinstall without losing anything similar to an upgrade. Slightly older install disks may also work, but the older they are the more likely they are to require data loss.  
 https://tb.rg-adguard.net/public.php
 
 **Lubuntu**  
