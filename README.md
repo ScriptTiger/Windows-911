@@ -28,6 +28,6 @@ https://tb.rg-adguard.net/public.php
 If Windows just isn't working and you're on a deadline, you can always save your Windows partition for later by resizing it and squeeze Lubuntu and a swap into new partitions, or just wipe everything and just go with Lubuntu and a swap. Lubuntu will just about run on anything while also supporting modern applications you need to get your work done, such as the LibreOffice suite which allows you to create, modify, and save Microsoft Office files and continue on with your work as if nothing happened. Also, since it's based on Ubuntu, which has been shipping preinstalled on many machines direct from manufacturers, it's a short and easy learning curve for beginners just coming from Windows with no experience in Linux at all. It supports low-RAM machines as well as has a couple of different PAE options for older CPUs that run into PAE errors on install, so please read the docs or google around first if you're having trouble installing it.  
 https://lubuntu.net/
 
-**Avira Rescue System**
-A 'Avira Rescue CD', to boot from and scan a Windows System for Viruses.
-https://www.avira.com/en/download/product/avira-rescue-system
+**Avira Rescue System**  
+A 'Avira Rescue CD', to boot from and scan a Windows System for Viruses.  
+https://www.avira.com/en/download/product/avira-rescue-system  
