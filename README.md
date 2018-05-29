@@ -27,3 +27,22 @@ https://tb.rg-adguard.net/public.php
 **Lubuntu**  
 If Windows just isn't working and you're on a deadline, you can always save your Windows partition for later by resizing it and squeeze Lubuntu and a swap into new partitions, or just wipe everything and just go with Lubuntu and a swap. Lubuntu will just about run on anything while also supporting modern applications you need to get your work done, such as the LibreOffice suite which allows you to create, modify, and save Microsoft Office files and continue on with your work as if nothing happened. Also, since it's based on Ubuntu, which has been shipping preinstalled on many machines direct from manufacturers, it's a short and easy learning curve for beginners just coming from Windows with no experience in Linux at all. It supports low-RAM machines as well as has a couple of different PAE options for older CPUs that run into PAE errors on install, so please read the docs or google around first if you're having trouble installing it.  
 https://lubuntu.net/
+
+# Antivirus Rescue Disks  
+The above UBCD comes with many antivirus tools, but everyone has their preferred and trusted antivirus and most come with a portable rescue disk. If you suspect you're down hard due to viruses, give your preferred AV rescue disk a shot. If your AV product isn't represented here and has a rescue disk available, just send us a PR to get it added. It should also be noted the below list is presented in alphanumeric order without any intentions of implied preference.
+
+**Avast Rescue Disk**  
+This is not a download, but just instructions on how to make an Avast rescue disk from your installed Avast software.  
+https://help.avast.com/en/av_abs/10/page_rescue_disc.html
+
+**AVG Rescue CD**  
+https://www.avg.com/en-ww/download.prd-arl
+
+**Avira Rescue System**  
+https://www.avira.com/en/download/product/avira-rescue-system
+
+# Other Useful Tools
+
+**YUMI – Multiboot USB Creator**  
+YUMI (Your Universal Multiboot Installer), is the successor of MultibootISOs. It can be used to create a Multiboot Bootable USB Flash Drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.  
+https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
