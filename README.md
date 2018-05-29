@@ -12,6 +12,10 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/
 NirSoft is a massive collection of simple yet effective utilities for both getting things done and just curiosities. It has utilities for everything from network forensics to local PC diagnostics.  
 https://www.nirsoft.net/
 
+**YUMI – Multiboot USB Creator**  
+YUMI (Your Universal Multiboot Installer), is the successor of MultibootISOs. It can be used to create a Multiboot Bootable USB Flash Drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.  
+https://www.pendrivelinux.com/yumi-multiboot-usb-creator/  
+
 # Disks  
 If you have Windows, you should have a disk burned from every single one of the below links that is appropriate for your system!!!
 
