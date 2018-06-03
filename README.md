@@ -43,6 +43,9 @@ https://www.avg.com/en-ww/download.prd-arl
 **Avira Rescue System**  
 https://www.avira.com/en/download/product/avira-rescue-system
 
+**Kaspersky Rescue Disk**  
+http://support.kaspersky.com/viruses/rescuedisk
+
 # Other Useful Tools
 
 **YUMI – Multiboot USB Creator**  
