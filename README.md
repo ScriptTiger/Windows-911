@@ -18,7 +18,7 @@ https://www.nirsoft.net/
 If you have Windows, you should have a disk burned from every single one of the below links that is appropriate for your system!!!
 
 **UBCD**  
-UBCD is good for any OS and is a collection of all those floppies people thought they wouldn't need anymore but can still save your butt in a bind, plus a whole lot more.  
+UBCD is good for any OS and is a collection of all those floppies people thought they wouldn't need anymore but can still save your butt in a bind, plus a whole lot more. It also currently comes with a freeware version of Parted Magic for all your partitioning needs, but they are working to replace it with their own UBCD distro in the future. With everything from virus scanners to password crackers to data recovery and memory diagnostics, this is definitely a must-have!  
 http://www.ultimatebootcd.com/
 
 **TechBench**  
