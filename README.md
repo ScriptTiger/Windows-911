@@ -51,7 +51,7 @@ https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 
 **Spybot – Search & Destroy**  
 Safer-Networking's Spybot - Search & Destroy (S&D) is a spyware and adware removal program. S&D don't search in files (like a Antivirus Program) for signatures, instead it knows from every spyware and adware where they place there files in the system and removes those. As S&D isn't a AV-Solution, it's highly recommended, that you make also a AV-Scan! S&D also repairs (what a AV Program normally don't do) the Registry and many other system settings that can be affected by spyware and adware. Safer-Networking unfortunately don't have a download link for a finished CD/ISO - instead you have to create your own. Here is the documentation, how it works:  
-https://forums.spybot.info/showthread.php?56353-How-to-create-a-Boot-CD-with-Spybot  
+https://www.safer-networking.org/features/bootcd/  
 
 # More About ScriptTiger
 
