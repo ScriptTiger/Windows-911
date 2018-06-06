@@ -43,7 +43,22 @@ https://www.avg.com/en-ww/download.prd-arl
 **Avira Rescue System**  
 https://www.avira.com/en/download/product/avira-rescue-system
 
+**Kaspersky Rescue Disk**  
+http://support.kaspersky.com/viruses/rescuedisk
+
 # Other Useful Tools
+
+**SUPERAntiSpyware**  
+SUPERAntiSpyware offers a portable version not requiring installation that comes with its newest signatures and you can copy/burn it to any medium and run it on an infected system.  
+https://www.superantispyware.com/portablescanner.html
+
+**Spybot – Search & Destroy**  
+Safer-Networking's Spybot - Search & Destroy is a spyware and adware removal program. S&D doesn't search in files like an antivirus program for signatures, instead it knows where spyware and adware place there files and removes them. As S&D isn't an AV solution, it's highly recommended that this be used to complement and supplement an AV scan and not replace one. S&D also repairs the registry and other system configurations that can be affected by spyware and adware, something AV programs normally don't do. The below link is not a download, but instructions on how to make an S&D disk from your installed S&D software.  
+https://www.safer-networking.org/features/bootcd/
+
+**Malwarebytes Anti-Rootkit-Tool**  
+If you think your system is infected with a rootkit, you may want to run the Malwarebytes Anti-Rootkit-Tool. It does require unpacking and it's not entirely portable, but it definitely gets the job done for rootkits it knows about.  
+https://www.malwarebytes.com/antirootkit/
 
 **YUMI – Multiboot USB Creator**  
 YUMI (Your Universal Multiboot Installer), is the successor of MultibootISOs. It can be used to create a Multiboot Bootable USB Flash Drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.  
