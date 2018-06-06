@@ -31,7 +31,7 @@ If Windows just isn't working and you're on a deadline, you can always save your
 https://lubuntu.net/
 
 # Antivirus Rescue Disks  
-The above UBCD comes with many antivirus tools, but everyone has their preferred and trusted antivirus and most come with a portable rescue disk. If you suspect you're down hard due to viruses, give your preferred AV rescue disk a shot. Here is a list of some of the available AV-Solutions on the market. It should also be noted the below list is presented in alphanumeric order without any intentions of implied preference.  
+The above UBCD comes with many antivirus tools, but everyone has their preferred and trusted antivirus and most come with a portable rescue disk. If you suspect you're down hard due to viruses, give your preferred AV rescue disk a shot. If your AV product isn't represented here and has a rescue disk available, just send us a PR to get it added. It should also be noted the below list is presented in alphanumeric order without any intentions of implied preference.
 
 **Avast Rescue Disk**  
 This is not a download, but just instructions on how to make an Avast rescue disk from your installed Avast software.  
@@ -46,19 +46,23 @@ https://www.avira.com/en/download/product/avira-rescue-system
 **Kaspersky Rescue Disk**  
 http://support.kaspersky.com/viruses/rescuedisk
 
-**Other AV-Solutions**  
-If your AV product isn't represented here and has a rescue disk available, then it's maybe listed in the following article. If you want to have your favorite AV-Solution listed in the list above, then just send us a PR to get it added.  
-https://www.raymond.cc/blog/13-antivirus-rescue-cds-software-compared-in-search-for-the-best-rescue-disk/
-
 # Other Useful Tools
+
+**SUPERAntiSpyware**  
+SUPERAntiSpyware offers a portable version not requiring installation that comes with its newest signatures and you can copy/burn it to any medium and run it on an infected system.  
+https://www.superantispyware.com/portablescanner.html
+
+**Spybot – Search & Destroy**  
+Safer-Networking's Spybot - Search & Destroy is a spyware and adware removal program. S&D doesn't search in files like an antivirus program for signatures, instead it knows where spyware and adware place there files and removes them. As S&D isn't an AV solution, it's highly recommended that this be used to complement and supplement an AV scan and not replace one. S&D also repairs the registry and other system configurations that can be affected by spyware and adware, something AV programs normally don't do. The below link is not a download, but instructions on how to make an S&D disk from your installed S&D software.  
+https://www.safer-networking.org/features/bootcd/
+
+**Malwarebytes Anti-Rootkit-Tool**  
+If you think your system is infected with a rootkit, you may want to run the Malwarebytes Anti-Rootkit-Tool. It does require unpacking and it's not entirely portable, but it definitely gets the job done for rootkits it knows about.  
+https://www.malwarebytes.com/antirootkit/
 
 **YUMI – Multiboot USB Creator**  
 YUMI (Your Universal Multiboot Installer), is the successor of MultibootISOs. It can be used to create a Multiboot Bootable USB Flash Drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.  
 https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
-
-**Spybot – Search & Destroy**  
-Safer-Networking's Spybot - Search & Destroy (S&D) is a spyware and adware removal program. S&D don't search in files (like a Antivirus Program) for signatures, instead it knows from every spyware and adware where they place there files in the system and removes those. As S&D isn't a AV-Solution, it's highly recommended, that you make also a AV-Scan! S&D also repairs (what a AV Program normally don't do) the Registry and many other system settings that can be affected by spyware and adware. Safer-Networking unfortunately don't have a download link for a finished CD/ISO - instead you have to create your own. Here is the documentation, how it works:  
-https://www.safer-networking.org/features/bootcd/  
 
 # More About ScriptTiger
 
