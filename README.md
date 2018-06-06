@@ -54,6 +54,10 @@ https://www.safer-networking.org/features/bootcd/
 Adaware (as the name says) is by his history also specialized on Adware. Adaware is a good alternative to Safer-Networking's Spybot - Search & Destroy (S&D). The benefit on this Rescue USB Key/CD is, you don't have to create it by yourself!  
 https://www.adaware.com/myadaware/support/supportcenter/run_on_a_frozen_pc/how-to-create-a-rescue-usb-key  
 
+**SUPERAntiSpyware**  
+SUPERAntiSpyware from Support.com exist unfortunately also not as a Boot CD. Instead Support.com gives you the chance to download a Portable Version with the newest signatures that you can copy/burn to any medium and run it after that on the infected system.  
+https://www.superantispyware.com/portablescanner.html
+
 **MBAR Tool**  
 If you think your system is infected by a Rootkit, you maybe want to run Malwarebyte's Anti-Rootkit-Tool (MBAR). Malwarebyte also don't offer a Rescue System! Instead you have to install it on the infected system!
 https://www.malwarebytes.com/antirootkit/
