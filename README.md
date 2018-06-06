@@ -31,7 +31,7 @@ If Windows just isn't working and you're on a deadline, you can always save your
 https://lubuntu.net/
 
 # Antivirus Rescue Disks  
-The above UBCD comes with many antivirus tools, but everyone has their preferred and trusted antivirus and most come with a portable rescue disk. If you suspect you're down hard due to viruses, give your preferred AV rescue disk a shot. If your AV product isn't represented here and has a rescue disk available, just send us a PR to get it added. It should also be noted the below list is presented in alphanumeric order without any intentions of implied preference.
+The above UBCD comes with many antivirus tools, but everyone has their preferred and trusted antivirus and most come with a portable rescue disk. If you suspect you're down hard due to viruses, give your preferred AV rescue disk a shot. Here is a list of some of the available AV-Solutions on the market. It should also be noted the below list is presented in alphanumeric order without any intentions of implied preference.  
 
 **Avast Rescue Disk**  
 This is not a download, but just instructions on how to make an Avast rescue disk from your installed Avast software.  
@@ -42,6 +42,13 @@ https://www.avg.com/en-ww/download.prd-arl
 
 **Avira Rescue System**  
 https://www.avira.com/en/download/product/avira-rescue-system
+
+**Kaspersky Rescue Disk**  
+http://support.kaspersky.com/viruses/rescuedisk
+
+**Other AV-Solutions**  
+If your AV product isn't represented here and has a rescue disk available, then it's maybe listed in the following article. If you want to have your favorite AV-Solution listed in the list above, then just send us a PR to get it added.  
+https://www.raymond.cc/blog/13-antivirus-rescue-cds-software-compared-in-search-for-the-best-rescue-disk/
 
 # Other Useful Tools
 
