@@ -43,6 +43,25 @@ https://www.avg.com/en-ww/download.prd-arl
 **Avira Rescue System**  
 https://www.avira.com/en/download/product/avira-rescue-system
 
+# Tools to remove other harmfull software  
+Because of the history about Viruses, Add- & Spyware and Rootkits, some other harmful software besides viruses are nowadays (still) better handled by specialized Removal Tools (Software Vendors). So it's highly recommended, that you run on a infected system at least a Virus Scan and a Anti-Add- & Spyware-Scan!  
+
+**Spybot – Search & Destroy**  
+Safer-Networking's Spybot - Search & Destroy (S&D) is a spyware and adware removal program. S&D don't search in files (like a Antivirus Program) for signatures, instead it knows from every spyware and adware where they place there files in the system and removes those. S&D also repairs (what a AV Program normally don't do) the Registry and many other system settings that can be affected by spyware and adware. Safer-Networking unfortunately don't have a download link for a finished CD/ISO - instead you have to create your own. Here is the documentation, how it works:  
+https://www.safer-networking.org/features/bootcd/  
+
+**Adaware Rescue USB Key/CD**  
+Adaware (as the name says) is by his history also specialized on Adware. Adaware is a good alternative to Safer-Networking's Spybot - Search & Destroy (S&D). The benefit on this Rescue USB Key/CD is, you don't have to create it by yourself!  
+https://www.adaware.com/myadaware/support/supportcenter/run_on_a_frozen_pc/how-to-create-a-rescue-usb-key  
+
+**SUPERAntiSpyware**  
+SUPERAntiSpyware from Support.com exist unfortunately also not as a Boot CD. Instead Support.com gives you the chance to download a Portable Version with the newest signatures that you can copy/burn to any medium and run it after that on the infected system.  
+https://www.superantispyware.com/portablescanner.html
+
+**MBAR Tool**  
+If you think your system is infected by a Rootkit, you maybe want to run Malwarebyte's Anti-Rootkit-Tool (MBAR). Malwarebyte also don't offer a Rescue System! Instead you have to install it on the infected system!
+https://www.malwarebytes.com/antirootkit/
+
 # Other Useful Tools
 
 **YUMI – Multiboot USB Creator**  
