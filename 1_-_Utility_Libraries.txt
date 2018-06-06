@@ -1,0 +1,13 @@
+Utility Libraries:
+==================
+Take your time when going through the below utility libraries and use them to build your own. Most, if not all, are entirely portable and don't require installation.
+
+Sysinternals
+------------
+A go-to for Windows diagnostics, along with some other simple yet powerful utilities for both local and domain environments.
+https://docs.microsoft.com/en-us/sysinternals/downloads/
+
+NirSoft
+-------
+NirSoft is a massive collection of simple yet effective utilities for both getting things done and just curiosities. It has utilities for everything from network forensics to local PC diagnostics.
+https://www.nirsoft.net/
