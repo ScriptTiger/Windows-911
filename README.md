@@ -24,6 +24,7 @@ http://www.ultimatebootcd.com/
 **TechBench**  
 The TechBench website may seem unassuming and maybe even shady, but it's actually home to a download link generator which generates links to various flavors of Windows that are downloaded directly from software-download.microsoft.com (See for yourself when you are given a download link!), so you don't need to worry about them being hacked and cracked versions that you might find floating around in torrents. With modern versions of Windows, always keeping an up-to-date version of your OS's install disk allows you the option to be able to reinstall your current OS without losing any licensing or even any data!  
 So the next time you decide trying your hand at gambling with Windows updates that land you sitting in front of a "Desktop Location is not available" error with no recovery options, no taskbar, no explorer, and no clue what to do, just CTRL+ALT+DELETE into the Task Manager, More details to make the File menu appear, File, Run new task, Browse. Keyboard shortcuts and right-click options apply here just like they do in the explorer and you can use it to back up what you need to before executing the disk's setup.exe to reinstall. It should also be noted when stuck in a situation like this, you may have to run everything with administrative privileges. Also, by default the Task Manager browser only views "program" file types, so don't forget to change that to "All files" in the bottom right drop-down. Backing your important data up should always be a precautionary step, but if your install disk is newer than your current OS build it will most likely be able to reinstall without losing anything similar to an upgrade. Slightly older install disks may also work, but the older they are the more likely they are to require data loss.  
+(As an additional note to the above situation, if you have Windows Update enabled and third-party antivirus installed, such as AVG, Avast, Kaspersky, McAfee, etc., make sure you DO NOT allow Windows Update to automatically install. If your connection is good, allowing it automatically download and wait for you is fine. And then before you manually trigger the Windows Update to begin installing the downloaded updates, DISABLE YOUR ANTIVIRUS. Microsoft has been crashing significant quantities of systems in recent updates due to conflicts with antivirus and they DO NOT provide support in these cases.)  
 https://tb.rg-adguard.net/public.php
 
 **Lubuntu**  
@@ -43,7 +44,22 @@ https://www.avg.com/en-ww/download.prd-arl
 **Avira Rescue System**  
 https://www.avira.com/en/download/product/avira-rescue-system
 
+**Kaspersky Rescue Disk**  
+http://support.kaspersky.com/viruses/rescuedisk
+
 # Other Useful Tools
+
+**SUPERAntiSpyware**  
+SUPERAntiSpyware offers a portable version not requiring installation that comes with its newest signatures and you can copy/burn it to any medium and run it on an infected system.  
+https://www.superantispyware.com/portablescanner.html
+
+**Spybot – Search & Destroy**  
+Safer-Networking's Spybot - Search & Destroy is a spyware and adware removal program. S&D doesn't search in files like an antivirus program for signatures, instead it knows where spyware and adware place there files and removes them. As S&D isn't an AV solution, it's highly recommended that this be used to complement and supplement an AV scan and not replace one. S&D also repairs the registry and other system configurations that can be affected by spyware and adware, something AV programs normally don't do. The below link is not a download, but instructions on how to make an S&D disk from your installed S&D software.  
+https://www.safer-networking.org/features/bootcd/
+
+**Malwarebytes Anti-Rootkit-Tool**  
+If you think your system is infected with a rootkit, you may want to run the Malwarebytes Anti-Rootkit-Tool. It does require unpacking and it's not entirely portable, but it definitely gets the job done for rootkits it knows about.  
+https://www.malwarebytes.com/antirootkit/
 
 **YUMI – Multiboot USB Creator**  
 YUMI (Your Universal Multiboot Installer), is the successor of MultibootISOs. It can be used to create a Multiboot Bootable USB Flash Drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.  
