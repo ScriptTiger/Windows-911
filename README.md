@@ -3,6 +3,9 @@
 # Windows 911!!!  
 Curated list of FREE emergency resources when you find yourself in the inevitable pickle with Windows. **PRs welcome!**
 
+If you find yourself routinely using recovery tools on a daily basis (e.g. you are an IT Technician or similar), then you may also want to reference the below link for a more expansive tooling list:  
+https://github.com/LV-Crew/Multiboot-USB-Stick/
+
 # Utility Libraries  
 Take your time when going through the below utility libraries and use them to build your own. Most, if not all, are entirely portable and don't require installation.
 
