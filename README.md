@@ -6,6 +6,10 @@ Curated list of FREE emergency resources when you find yourself in the inevitabl
 If you find yourself routinely using recovery tools on a daily basis (e.g. you are an IT Technician or similar), then you may also want to reference the below link for a more expansive tooling list:  
 https://github.com/LV-Crew/Multiboot-USB-Stick/
 
+# The No More Ransom Project  
+The No More Ransom Project is not specific to Windows operating systems, but still a great place to start if you discover your files are being taken hostage by ransomware or if you just want to read more on how to prevent ransomware attacks. Their website provides support in multiple languages, prevention advice, an expansive repository of ransomware decryption tools, as well as quick links to report criminal ransomware incidents to the appropriate authorities within multiple countries, all free of charge and maintained by an international cohort of government agencies, private institutions, and other passionate individuals striving to rid the world of ransomware.  
+https://www.nomoreransom.org/
+
 # Utility Libraries  
 Take your time when going through the below utility libraries and use them to build your own. Most, if not all, are entirely portable and don't require installation.
 
