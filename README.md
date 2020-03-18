@@ -1,4 +1,4 @@
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ScriptTiger)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/thescripttiger%40gmail.com)
 
 # Windows 911!!!  
 Curated list of FREE emergency resources when you find yourself in the inevitable pickle with Windows. **PRs welcome!**
