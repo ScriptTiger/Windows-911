@@ -3,9 +3,6 @@
 # Windows 911!!!  
 Curated list of FREE emergency resources when you find yourself in the inevitable pickle with Windows. **PRs welcome!**
 
-If you find yourself routinely using recovery tools on a daily basis (e.g. you are an IT Technician or similar), then you may also want to reference the below link for a more expansive tooling list:  
-https://github.com/LV-Crew/Multiboot-USB-Stick/
-
 # The No More Ransom Project  
 The No More Ransom Project is not specific to Windows operating systems, but still a great place to start if you discover your files are being taken hostage by ransomware or if you just want to read more on how to prevent ransomware attacks. Their website provides support in multiple languages, prevention advice, an expansive repository of ransomware decryption tools, as well as quick links to report criminal ransomware incidents to the appropriate authorities within multiple countries, all free of charge and maintained by an international cohort of government agencies, private institutions, and other passionate individuals striving to rid the world of ransomware.  
 https://www.nomoreransom.org/
@@ -47,26 +44,19 @@ The above UBCD comes with many antivirus tools, but everyone has their preferred
 
 **Avast Rescue Disk**  
 This is not a download, but just instructions on how to make an Avast rescue disk from your installed Avast software.  
-https://help.avast.com/en/av_abs/10/page_rescue_disc.html
-
-**AVG Rescue CD**  
-https://www.avg.com/en-ww/download.prd-arl
+https://support.avast.com/en-id/article/antivirus-rescue-disk-scan/#pc
 
 **Avira Rescue System**  
-https://www.avira.com/en/download/product/avira-rescue-system
+https://support.avira.com/hc/en-us/articles/360007776058-Creating-and-using-Avira-Rescue-System
 
 **Kaspersky Rescue Disk**  
-http://support.kaspersky.com/viruses/rescuedisk
+https://www.kaspersky.com/downloads/free-rescue-disk
 
 # Other Useful Tools
 
 **SUPERAntiSpyware**  
 SUPERAntiSpyware offers a portable version not requiring installation that comes with its newest signatures and you can copy/burn it to any medium and run it on an infected system.  
 https://www.superantispyware.com/portablescanner.html
-
-**Spybot – Search & Destroy**  
-Safer-Networking's Spybot - Search & Destroy is a spyware and adware removal program. S&D doesn't search in files like an antivirus program for signatures, instead it knows where spyware and adware place there files and removes them. As S&D isn't an AV solution, it's highly recommended that this be used to complement and supplement an AV scan and not replace one. S&D also repairs the registry and other system configurations that can be affected by spyware and adware, something AV programs normally don't do. The below link is not a download, but instructions on how to make an S&D disk from your installed S&D software.  
-https://www.safer-networking.org/features/bootcd/
 
 **Malwarebytes Anti-Rootkit-Tool**  
 If you think your system is infected with a rootkit, you may want to run the Malwarebytes Anti-Rootkit-Tool. It does require unpacking and it's not entirely portable, but it definitely gets the job done for rootkits it knows about.  
